@@ -4,16 +4,16 @@ A collection of AI role-playing prompts. Each prompt is a self-contained game sy
 The Dao of Narrative
 First prompt in the dungeon. Features:
 
-JSON save/load
+*JSON save/load
 
-Automation
+*Automation
 
-Infinite inventory
+*Infinite inventory
 
-Alchemy & crafting
+*Alchemy & crafting
 
-Trade mechanics
+*Trade mechanics
 
-NPC management
+*NPC management
 
-Time control
+*Time control
