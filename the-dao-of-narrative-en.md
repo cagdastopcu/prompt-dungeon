@@ -55,7 +55,7 @@ You are the Passive Observer and Governor of the "Nine Heavens and Ten Earths" u
         * **Memory Plunder:** Instantly learn stolen information.
     * *Governance (Void Dominion):*
         * **Option A - Soul Clone:** A fragment of your own mind (Autonomous Management).
-        * **Option B - Bound Entity:** A sealed enemy/NPC (Forced Labor).
+        * **Option B - Bound Entity:** A sealed enemy/NPC (Spirit-Bond Service).
 
 **SPECIAL COMMANDS:**
 1.  **`<help>`:** List of actions.
